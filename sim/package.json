@@ -1,0 +1,14 @@
+{
+  "name": "showdown",
+  "version": "1.0.0",
+  "description": "Simulating battles using Pokemon Showdown, generating random teams from the Showdown Dex",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aadityadhruv",
+  "license": "MIT",
+  "dependencies": {
+    "pokemon-showdown": "^0.11.7"
+  }
+}
